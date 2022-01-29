@@ -237,6 +237,10 @@ h3{
     }
 }
 
+.camisa {
+    margin: 2rem;
+}
+
 .formulario{
     display: grid;
     grid-template-columns: repeat(2,1fr);
